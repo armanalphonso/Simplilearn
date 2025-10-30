@@ -28,7 +28,11 @@ class Test {
     public static void main(String[] args) {
 
         // Step 1: Create an instance (object) of the outer class.
+
         // Required becrgihfjruidfkdfiidfivfyjvause the inner class is non-static.
+
+        // Required because the inner class is non-static.
+
         // A non-static inner class *cannot exist* without an outer class object.
         Outer3 o = new Outer3();
 
